@@ -19,7 +19,9 @@
   "homepage": "https://github.com/yoophi/nodebird-backend#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "sequelize": "^6.6.2"
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2",
+    "sequelize-cli": "^6.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
